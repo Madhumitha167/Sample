@@ -7,4 +7,5 @@ Projects
 
 
 I didn't understand these questions 
+I tried the CI pipeine using Jenkins
 
