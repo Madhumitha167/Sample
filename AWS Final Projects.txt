@@ -1,6 +1,10 @@
 Projects
 
+
 1. Designing a continious integration pipeline through Jenkins on AWS EC2 instance
 2. Designing a continious Delivary pipeline for a Java Based weba pp on aws ec2 instance on K8s cluster
 3. Infrastatucture deployment thought terrafrom and a solution for managing that with ansible
+
+
+I didn't understand these questions 
 
